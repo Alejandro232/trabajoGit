@@ -12,6 +12,8 @@
 
     <script>
    var x = "Alex";
+
+   var intento1;
    
     </script>
     
